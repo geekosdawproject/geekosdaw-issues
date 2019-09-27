@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+**Category**: <LV2/LADSPA/DSSI/VST2/VST3 Plugin, Standalone ALSA/JACK, DAW, etc.>
 **Description**:
 **Web page or repository**:
 **Other useful info**: <dependencies, quirks, forks, etc.>
