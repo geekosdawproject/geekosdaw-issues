@@ -1,7 +1,7 @@
 ---
 name: Package request
 about: Ask for inclusion of a music-making program to Geekos DAW
-title: ''
+title: "<Program name>"
 labels: package request
 assignees: ''
 

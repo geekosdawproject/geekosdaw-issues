@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Please report only bugs related to packaging, otherwise go upstream
-title: ''
+title: "<Package name>"
 labels: bug
 assignees: ''
 
