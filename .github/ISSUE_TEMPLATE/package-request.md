@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-*Name*:
-*Web page or repository*:
-*Description*:
+**Description**:
+**Web page or repository**:
+**Other useful info**: <dependencies, quirks, forks, etc.>

@@ -7,6 +7,5 @@ assignees: ''
 
 ---
 
-*Package name*:
-*openSUSE Version*:
-*Bug description*:
+**Bug description**:
+**openSUSE Version**:
